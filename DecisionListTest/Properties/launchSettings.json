@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "DecisionListTest": {
+      "commandName": "Project",
+      "commandLineArgs": "sentiment-decision-list.txt sentiment-test.txt sentiment-system-answers.txt",
+      "workingDirectory": "S:\\Documents\\School\\UMD\\Fall 2021\\CS 4242\\Labs and PAs\\Sentiment"
+    }
+  }
+}
